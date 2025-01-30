@@ -1,7 +1,7 @@
 # Notes Keeper - A Flutter Notes App
 
 ## 📌 Overview
-Notes Keeper is a simple and efficient note-taking app built using Flutter. It allows users to add, edit, and manage notes seamlessly with an intuitive user interface. The app also features user authentication and a customizable theme option to enhance the user experience.
+Notes Taking is a simple and efficient note-taking app built using Flutter. It allows users to add, edit, and manage notes seamlessly with an intuitive user interface. The app also features user authentication and a customizable theme option to enhance the user experience.
 
 ## ✨ Features
 - 📝 **Add and Edit Notes** - Create and modify notes with ease.
@@ -9,7 +9,7 @@ Notes Keeper is a simple and efficient note-taking app built using Flutter. It a
 - 🎨 **Theme Customization** - Switch between light and dark themes.
 - 📂 **Persistent Storage** - Notes are saved locally using a database.
 - 🔍 **Search Functionality** - Find notes quickly with a search bar.
-- 📤 **Cloud Sync (Optional)** - Sync notes to Firebase Firestore for backup.
+- 📤 **Cloud Sync** - Sync notes to Firebase Firestore for backup.
 - 🎯 **Responsive UI** - Works seamlessly across different screen sizes.
 
 ## 🛠️ Tech Stack
@@ -94,7 +94,6 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 For any inquiries, reach out at [your.email@example.com](mailto:your.email@example.com) or open an issue in the repository.
 
 ---
-Happy Coding! 🚀
 
 
 
